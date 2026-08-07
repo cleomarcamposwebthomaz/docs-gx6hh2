@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-vpub7z.indocuan-win.sbs/sitemap.xml
